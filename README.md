@@ -15,13 +15,12 @@ VAIMA (Visual AI Industrial Maintenance Assistant) is an offline-first, high-com
 
 ## 📸 Demo Screenshots
 
-برای مستندسازی و ارائه بهتر، اسکرین‌شات‌های دمو در دو محل قرار داده شده‌اند:
+To provide a clearer overview of the platform and its user experience, a collection of demonstration screenshots has been included with this repository.
 
-* **فایل‌های سطح ریشه پروژه**: برای دسترسی سریع به چند تصویر شاخص از دموی پروژه.
-* **پوشه `demo-screenshots/`**: شامل مجموعه کامل‌تر از تصاویر دمو، مناسب برای مرور مرحله‌به‌مرحله و استفاده در ارائه یا گزارش.
+- **Root Directory:** Contains a selection of key showcase screenshots for quick reference.
+- **`demo-screenshots/` Directory:** Contains the complete set of UI and workflow captures used for documentation, presentations, and project evaluation.
 
-این ساختار کمک می‌کند تصاویر هم برای مشاهده سریع در دسترس باشند و هم برای آرشیو و ارائه رسمی، در یک مسیر مشخص و قابل‌اعتماد نگهداری شوند.
-
+These demonstration assets highlight the major capabilities of VAIMA, including the Operator Dashboard, Supervisor Analytics Panel, AI Expert Assistant, Safety Quiz System, Cognitive Knowledge Assessor, and other core platform features.
 
 ---
 
